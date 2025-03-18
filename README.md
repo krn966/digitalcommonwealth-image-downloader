@@ -24,7 +24,7 @@ pip install -r requirements.txt
    ```sh
    python script.py
    ```
-3. **Downloaded Images**: Images will be saved in the `../downloads/` folder with their respective names.
+3. **Downloaded Images**: Images will be saved in the `./downloads/` folder with their respective names.
 
 ## File Structure
 ```
