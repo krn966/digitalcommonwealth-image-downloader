@@ -33,7 +33,7 @@ project_folder/
 │-- requirements.txt      # Dependencies
 │-- README.md             # Documentation
 │-- imageids              # File with list of IDs
-│-- ../downloads/         # Folder where images are saved
+│-- ./downloads/         # Folder where images are saved
 ```
 
 ## Notes
